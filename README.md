@@ -1,5 +1,7 @@
 # Pong Deluxe
 
+![Pong Deluxe project setup](image.png)
+
 A compact Arduino-based Pong game built for a small OLED display and simple button controls. This project turns a standard Arduino Nano into a playable arcade-style game with a CPU opponent, score tracking, sound effects, and a turbo mode.
 
 ## Overview
